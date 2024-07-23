@@ -1,0 +1,1 @@
+INSERT INTO song(title,artist) values ('Baby','justin biber');
